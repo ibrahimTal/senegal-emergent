@@ -1,0 +1,2454 @@
+            @media only screen and (max-width: 320px) {
+                .logo,
+                #block-views-actualites-block,
+                #block-views-actualites-videos-block {
+                    width: 100%;
+                    text-align: center;
+                    margin-left: 5px;
+                }
+                #block-menu-menu-footer .menu {
+                    float: none;
+                }
+                .page-mediatheque .views-slideshow-controls-text {
+                    margin-left: 0;
+                }
+                #block-menu-menu-footer {
+                    float: none;
+                    width: 100%;
+                }
+                #block-simplenews-17 {
+                    display: none;
+                }
+                .logo img {
+                    height: 150px;
+                }
+                #block-custom-search-blocks-1,
+                .webform-client-form .form-item label,
+                .webform-client-form .form-item .form-text,
+                .webform-client-form .form-item textarea.form-control {
+                    width: 100%;
+                }
+                .webform-client-form #edit-submit {
+                    margin-left: 0;
+                }
+                .search-form {
+                    margin-left: 0;
+                    margin-top: 20px;
+                    border: 1px solid #ccc;
+                    width: 100%;
+                }
+                .search-form .form-control,
+                .search-form .form-group {
+                    width: 85%;
+                    float: left;
+                    margin: 0;
+                }
+                #block-locale-language {
+                    margin: 0;
+                    width: 100%;
+                    text-align: center;
+                }
+                #block-locale-language .language-switcher-locale-url {
+                    margin-left: 0;
+                }
+                #block-locale-language .language-switcher-locale-url li {
+                    font-size: 15px;
+                    text-transform: uppercase;
+                }
+                .box_navi {
+                    display: none
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description span {
+                    width: 44%;
+                    margin-left: 130px !important;
+                }
+                #views_slideshow_controls_text_slideshow-block {
+                    left: 10px;
+                }
+                #block-locale-language .language-switcher-locale-url li {
+                    margin: 0 10px;
+                }
+                #block-views-actualites-block .views-row,
+                #block-views-actualites-videos-block .views-row {
+                    width: 100%;
+                    float: left;
+                    border: 1px solid #ccc;
+                    margin-right: 0;
+                    text-align: center;
+                    margin-bottom: 20px;
+                }
+                #block-views-actualites-videos-block {
+                    padding: 0;
+                }
+                #block-views-actualites-block .news-desc p,
+                #block-views-actualites-videos-block .news-desc p {
+                    text-align: justify;
+                }
+                #block-views-agenda-block .views-row,
+                #block-views-regions-block .views-row {
+                    float: left;
+                    width: 100%;
+                }
+                .box_actu {
+                    margin-bottom: 10px;
+                }
+                #block-views-actualites-block .news-read-more a,
+                #block-views-actualites-block .news-video-read-more a,
+                #block-views-actualites-videos-block .news-read-more a,
+                #block-views-actualites-videos-block .news-video-read-more a {
+                    margin-top: 0;
+                }
+                #map {
+                    left: 0;
+                }
+                #block-views-agenda-block .block-title,
+                #block-views-regions-block .block-title {
+                    margin: 5px 0;
+                }
+                #block-boxes-contact-home p,
+                #block-boxes-contact-home a {
+                    width: 80%;
+                }
+                .box_wrapper {
+                    margin-bottom: 50px;
+                }
+                .box_tool .menu li {
+                    text-align: center;
+                    margin-bottom: 0;
+                    float: none !important;
+                    display: inline-block;
+                }
+                #block-views-rapports-block,
+                #block-boxes-contact-home {
+                    border: 1px solid #ccc;
+                }
+                .box_tool .menu li a {
+                    padding-top: 120px;
+                }
+                .box_tool .menu li a:hover {
+                    transform: none;
+                }
+                .box_header {
+                    background: none;
+                }
+                /*#block-views-agenda-block .views-row-1, #block-views-regions-block .views-row-1{
+		border-right: 1px solid #ccc;
+		border-bottom: 1px solid #ccc;
+	}
+
+	#block-views-agenda-block .views-row-2, #block-views-regions-block .views-row-2{
+		border-bottom: 1px solid #ccc;
+	}
+
+	#block-views-agenda-block .views-row-3, #block-views-regions-block .views-row-3{
+		border-right: 1px solid #ccc;
+	}*/
+                .box_footer {
+                    padding-bottom: 20px;
+                }
+                #block-menu-menu-footer .menu li {
+                    padding: 0 8px !important;
+                }
+                .not-front #block-views-agenda-block {
+                    margin-top: 0;
+                }
+                .page-search-node .ariane,
+                .page-taxonomy .ariane,
+                .node-type-evenement .ariane,
+                .page-documentation .ariane,
+                .page-node-98 .ariane,
+                .page-sitemap .ariane,
+                .page-node-99 .ariane {
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                }
+                .field-collection-view .entity-field-collection-item {
+                    margin-left: 0;
+                    width: 100%;
+                }
+                .page-header h1 {
+                    font-size: 2.2rem;
+                    color: #18740f;
+                    margin-bottom: 10px;
+                }
+                .view-reformes .views-row,
+                .view-projets-phares .views-row {
+                    width: 100%;
+                }
+                .field-name-field-regions .field-item a {
+                    margin-bottom: 4px;
+                }
+                #block-menu-menu-footer .menu li a {
+                    text-decoration: underline;
+                }
+                #block-menu-menu-footer .menu li ::after {
+                    content: " ";
+                    padding-left: 0;
+                    color: #c9c9c9;
+                }
+                #block-views-agenda-block .views-row,
+                #block-views-regions-block .views-row {
+                    min-height: 130px;
+                    background: none;
+                }
+                .search-form .btn {
+                    float: left;
+                    width: 15%;
+                }
+                #block-views-actualites-block .news-image img,
+                #block-views-actualites-videos-block .news-video-thumb img {
+                    display: inline-block;
+                    max-width: 100%;
+                    height: auto;
+                }
+                .dropdown-menu {
+                    position: relative;
+                    margin-left: 24px !important;
+                    background: none;
+                }
+                .dropdown-menu li {}
+                .dropdown-menu li a {
+                    padding: 8px 0 !important;
+                    text-transform: none !important;
+                    color: #fff !important;
+                    margin-left: 0 !important;
+                    width: 100% !important;
+                    display: block !important;
+                    background: none !important;
+                }
+                .ariane {
+                    margin-top: 5px;
+                    margin-bottom: 5px;
+                }
+                .box_slider {
+                    width: 100%;
+                    overflow-x: hidden;
+                }
+                .fakeloader {
+                    background: #FFF !important;
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description {
+                    background-size: 70%;
+                    top: 41px;
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description .slideshow-title {
+                    font-size: 15px;
+                    margin-bottom: 5px;
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description .slideshow-desc {
+                    font-size: 13px;
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description span {
+                    width: 44%;
+                    margin-top: 100px;
+                    margin-left: 167px;
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description {
+                    height: 329px;
+                }
+                .page {
+                    float: left;
+                    overflow-x: hidden;
+                    width: 100%;
+                }
+                #block-menu-menu-social,
+                .txt span,
+                #site-slogan {
+                    display: none;
+                }
+                #block-menu-menu-pse-tools,
+                #block-views-agenda-block,
+                #block-views-rapports-block {
+                    width: 100% !important;
+                    margin-top: 15px;
+                }
+                /* * ADI * */
+                .box_top_header,
+                .presidence,
+                .slideshow-desc h3,
+                .menu.axes {
+                    display: none;
+                }
+                .box_header {
+                    padding: 0;
+                }
+                .bos {
+                    width: 100% !important;
+                    float: left !important;
+                }
+                .box_header .logo.bos img {
+                    width: 35% !important;
+                    margin-top: 0;
+                    margin-left: 0;
+                    height: auto;
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description span {
+                    margin-left: 20px !important;
+                }
+                #block-views-regions-block {
+                    width: auto;
+                }
+                .region-pse-carte .view-regions .view-header h3 {
+                    margin-left: 0;
+                }
+                #block-views-regions-block .block-title {
+                    margin-bottom: 6px;
+                    line-height: 20px;
+                }
+                #map {
+                    margin-top: -100px;
+                }
+                .region-pse-carte .view-regions .view-header h3 {
+                    margin-left: 0 !important;
+                    margin-top: 7px;
+                }
+                #block-menu-menu-pse-tools .menu li {
+                    background-size: 20% !important;
+                }
+                #block-menu-menu-footer .menu li {
+                    padding: 0 7px !important;
+                    font-size: 12px !important;
+                }
+                #block-boxes-contact-home p {
+                    margin-bottom: 18px;
+                }
+                .page-header h1 {
+                    display: block !important;
+                }
+                .ariane {
+                    display: none !important;
+                }
+                .jumbotron {
+                    padding: 16px !important;
+                }
+                .page-node-39 .field-name-body img {
+                    display: none;
+                }
+                .box_tool {
+                    visibility: visible !important;
+                }
+                #quicktabs-chiffres_cles .quicktabs-tabpage {
+                    text-align: justify;
+                }
+                .view-reformes .views-row,
+                .view-projets-phares .views-row {
+                    width: 93% !important;
+                }
+                .node ul,
+                .pane-content ul,
+                .node ul li,
+                .pane-content ul li,
+                .view-documents .views-row {
+                    width: 100% !important;
+                }
+                #block-menu-menu-pse-tools,
+                #block-views-agenda-block,
+                #block-views-rapports-block,
+                .box_footer {
+                    visibility: visible !important;
+                }
+                .page-approche-territoriale- .region-content h3,
+                .pane-content p {
+                    position: relative;
+                    z-index: 12;
+                }
+                .view-secteurs-strategiques- .views-row {
+                    width: 94% !important;
+                    min-height: auto !important;
+                }
+                .view-documents .views-row .document-desc {
+                    min-height: auto !important;
+                }
+                .view-documents .views-row {
+                    float: left !important;
+                }
+                .box_wrapper {
+                    float: left;
+                    width: 100%;
+                    overflow: hidden;
+                }
+            }
+            
+            @media only screen and (min-width: 320px) and (max-width: 480px) {
+                .logo,
+                #block-views-actualites-block,
+                #block-views-actualites-videos-block {
+                    width: 100%;
+                    text-align: center;
+                    margin-left: 5px;
+                }
+                .view-reformes .views-row img,
+                .view-projets-phares .views-row img {
+                    width: 100%;
+                    height: auto;
+                }
+                .view-secteurs-strategiques- .views-row {
+                    width: 100%;
+                }
+                .view-secteurs-strategiques- .views-row img {
+                    height: auto;
+                }
+                .box_header {
+                    padding: 14px;
+                }
+                .box_header .col-md-3 {
+                    text-align: center;
+                }
+                .box_header .col-md-3 img {
+                    width: auto !important;
+                }
+                #block-menu-menu-footer .menu {
+                    float: none;
+                }
+                .page-mediatheque .views-slideshow-controls-text {
+                    margin-left: 0;
+                }
+                #block-menu-menu-footer {
+                    float: none;
+                    width: 100%;
+                }
+                #block-simplenews-17 {
+                    display: none;
+                }
+                .logo img {
+                    height: 150px;
+                }
+                #block-custom-search-blocks-1,
+                .webform-client-form .form-item label,
+                .webform-client-form .form-item .form-text,
+                .webform-client-form .form-item textarea.form-control {
+                    width: 100%;
+                }
+                .webform-client-form #edit-submit {
+                    margin-left: 0;
+                }
+                .search-form {
+                    margin-left: 0;
+                    margin-top: 20px;
+                    border: 1px solid #ccc;
+                    width: 100%;
+                }
+                .search-form .form-control,
+                .search-form .form-group {
+                    width: 85%;
+                    float: left;
+                    margin: 0;
+                }
+                #block-locale-language {
+                    margin: 0;
+                    width: 100%;
+                    text-align: center;
+                }
+                #block-locale-language .language-switcher-locale-url {
+                    margin-left: 0;
+                }
+                #block-locale-language .language-switcher-locale-url li {
+                    font-size: 15px;
+                    text-transform: uppercase;
+                }
+                .box_navi {
+                    display: none
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description span {
+                    width: 44%;
+                    margin-left: 130px !important;
+                }
+                #views_slideshow_controls_text_slideshow-block {
+                    left: 10px;
+                }
+                #block-locale-language .language-switcher-locale-url li {
+                    margin: 0 10px;
+                }
+                #block-views-actualites-block .views-row,
+                #block-views-actualites-videos-block .views-row {
+                    width: 100%;
+                    float: left;
+                    border: 1px solid #ccc;
+                    margin-right: 0;
+                    text-align: center;
+                    margin-bottom: 20px;
+                }
+                #block-views-actualites-videos-block {
+                    padding: 0;
+                }
+                #block-views-actualites-block .news-desc p,
+                #block-views-actualites-videos-block .news-desc p {
+                    text-align: justify;
+                }
+                #block-views-agenda-block .views-row,
+                #block-views-regions-block .views-row {
+                    float: left;
+                    width: 100%;
+                }
+                .box_actu {
+                    margin-bottom: 10px;
+                }
+                #block-views-actualites-block .news-read-more a,
+                #block-views-actualites-block .news-video-read-more a,
+                #block-views-actualites-videos-block .news-read-more a,
+                #block-views-actualites-videos-block .news-video-read-more a {
+                    margin-top: 0;
+                }
+                #map {
+                    left: 0;
+                }
+                #block-views-agenda-block .block-title,
+                #block-views-regions-block .block-title {
+                    margin: 5px 0;
+                }
+                #block-boxes-contact-home p,
+                #block-boxes-contact-home a {
+                    width: 80%;
+                }
+                .box_wrapper {
+                    margin-bottom: 50px;
+                }
+                .box_tool .menu li {
+                    text-align: center;
+                    margin-bottom: 0;
+                    float: none !important;
+                    display: inline-block;
+                }
+                #block-views-rapports-block,
+                #block-boxes-contact-home {
+                    border: 1px solid #ccc;
+                }
+                .box_tool .menu li a {
+                    padding-top: 120px;
+                }
+                .box_tool .menu li a:hover {
+                    transform: none;
+                }
+                .box_header {
+                    background: none;
+                }
+                /*#block-views-agenda-block .views-row-1, #block-views-regions-block .views-row-1{
+		border-right: 1px solid #ccc;
+		border-bottom: 1px solid #ccc;
+	}
+
+	#block-views-agenda-block .views-row-2, #block-views-regions-block .views-row-2{
+		border-bottom: 1px solid #ccc;
+	}
+
+	#block-views-agenda-block .views-row-3, #block-views-regions-block .views-row-3{
+		border-right: 1px solid #ccc;
+	}*/
+                .box_footer {
+                    padding-bottom: 20px;
+                }
+                #block-menu-menu-footer .menu li {
+                    padding: 0 8px !important;
+                }
+                .not-front #block-views-agenda-block {
+                    margin-top: 0;
+                }
+                .page-search-node .ariane,
+                .page-taxonomy .ariane,
+                .node-type-evenement .ariane,
+                .page-documentation .ariane,
+                .page-node-98 .ariane,
+                .page-sitemap .ariane,
+                .page-node-99 .ariane {
+                    margin-top: 10px;
+                    margin-bottom: 10px;
+                }
+                .field-collection-view .entity-field-collection-item {
+                    margin-left: 0;
+                    width: 100%;
+                }
+                .page-header h1 {
+                    font-size: 2.2rem;
+                    color: #18740f;
+                    margin-bottom: 10px;
+                }
+                .view-reformes .views-row,
+                .view-projets-phares .views-row {
+                    width: 100%;
+                }
+                .field-name-field-regions .field-item a {
+                    margin-bottom: 4px;
+                }
+                #block-menu-menu-footer .menu li a {
+                    text-decoration: underline;
+                }
+                #block-menu-menu-footer .menu li ::after {
+                    content: " ";
+                    padding-left: 0;
+                    color: #c9c9c9;
+                }
+                #block-views-agenda-block .views-row,
+                #block-views-regions-block .views-row {
+                    min-height: 130px;
+                    background: none;
+                }
+                .search-form .btn {
+                    float: left;
+                    width: 15%;
+                }
+                #block-views-actualites-block .news-image img,
+                #block-views-actualites-videos-block .news-video-thumb img {
+                    display: inline-block;
+                    max-width: 100%;
+                    height: auto;
+                }
+                .dropdown-menu {
+                    position: relative;
+                    margin-left: 24px !important;
+                    background: none;
+                }
+                .dropdown-menu li {}
+                .dropdown-menu li a {
+                    padding: 8px 0 !important;
+                    text-transform: none !important;
+                    color: #fff !important;
+                    margin-left: 0 !important;
+                    width: 100% !important;
+                    display: block !important;
+                    background: none !important;
+                }
+                .ariane {
+                    margin-top: 5px;
+                    margin-bottom: 5px;
+                }
+                .box_slider {
+                    width: 100%;
+                    overflow-x: hidden;
+                }
+                .fakeloader {
+                    background: #FFF !important;
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description {
+                    background-size: 70%;
+                    top: 41px;
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description .slideshow-title {
+                    font-size: 15px;
+                    margin-bottom: 5px;
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description .slideshow-desc {
+                    font-size: 13px;
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description span {
+                    width: 44%;
+                    margin-top: 100px;
+                    margin-left: 167px;
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description {
+                    height: 329px;
+                }
+                .page {
+                    float: left;
+                    overflow-x: hidden;
+                    width: 100%;
+                }
+                #block-menu-menu-social,
+                .txt span,
+                #site-slogan {
+                    display: none;
+                }
+                #block-menu-menu-pse-tools,
+                #block-views-agenda-block,
+                #block-views-rapports-block {
+                    width: 100% !important;
+                    margin-top: 15px;
+                }
+                /* * ADI * */
+                .box_top_header,
+                .presidence,
+                .slideshow-desc h3,
+                .menu.axes {
+                    display: none;
+                }
+                .box_header {
+                    padding: 0;
+                }
+                .bos {
+                    width: 100% !important;
+                    float: left !important;
+                }
+                .box_header .logo.bos img {
+                    width: 35% !important;
+                    margin-top: 0;
+                    margin-left: 0;
+                    height: auto;
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description span {
+                    margin-left: 20px !important;
+                }
+                #block-views-regions-block {
+                    width: auto;
+                }
+                .region-pse-carte .view-regions .view-header h3 {
+                    margin-left: 0;
+                }
+                #block-views-regions-block .block-title {
+                    margin-bottom: 6px;
+                    line-height: 20px;
+                }
+                #map {
+                    margin-top: -100px;
+                }
+                .region-pse-carte .view-regions .view-header h3 {
+                    margin-left: 0 !important;
+                    margin-top: 7px;
+                }
+                #block-menu-menu-pse-tools .menu li {
+                    background-size: 20% !important;
+                }
+                #block-menu-menu-footer .menu li {
+                    padding: 0 7px !important;
+                    font-size: 12px !important;
+                }
+                #block-boxes-contact-home p {
+                    margin-bottom: 18px;
+                }
+                .page-header h1 {
+                    display: block !important;
+                }
+                .ariane {
+                    display: none !important;
+                }
+                .jumbotron {
+                    padding: 16px !important;
+                }
+                .page-node-39 .field-name-body img {
+                    display: none;
+                }
+                .box_tool {
+                    visibility: visible !important;
+                }
+                #quicktabs-chiffres_cles .quicktabs-tabpage {
+                    text-align: justify;
+                }
+                .view-reformes .views-row,
+                .view-projets-phares .views-row {
+                    width: 93% !important;
+                }
+                .node ul,
+                .pane-content ul,
+                .node ul li,
+                .pane-content ul li,
+                .view-documents .views-row {
+                    width: 100% !important;
+                }
+                #block-menu-menu-pse-tools,
+                #block-views-agenda-block,
+                #block-views-rapports-block,
+                .box_footer {
+                    visibility: visible !important;
+                }
+                .page-approche-territoriale- .region-content h3,
+                .pane-content p {
+                    position: relative;
+                    z-index: 12;
+                }
+                .view-secteurs-strategiques- .views-row {
+                    width: 94% !important;
+                    min-height: auto !important;
+                }
+                .view-documents .views-row .document-desc {
+                    min-height: auto !important;
+                }
+                .view-documents .views-row {
+                    float: left !important;
+                }
+                .box_wrapper {
+                    float: left;
+                    width: 100%;
+                    overflow: hidden;
+                }
+            }
+            
+            @media only screen and (min-width: 480px) and (max-width: 992px) {
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description {
+                    height: 329px;
+                }
+                .page {
+                    float: left;
+                    overflow-x: hidden;
+                    width: 100%;
+                }
+                #block-menu-menu-social,
+                .txt span,
+                #site-slogan {
+                    display: none;
+                }
+                #block-menu-menu-pse-tools,
+                #block-views-agenda-block,
+                #block-views-rapports-block {
+                    width: 100% !important;
+                    margin-top: 15px;
+                }
+                .logo,
+                #block-views-actualites-block,
+                #block-views-actualites-videos-block {
+                    width: 100% !important;
+                    margin-left: 0 !important;
+                    text-align: center;
+                }
+                .logo img {
+                    height: 150px;
+                }
+                #block-custom-search-blocks-1,
+                .webform-client-form .form-item label,
+                .webform-client-form .form-item .form-text,
+                .webform-client-form .form-item textarea.form-control {
+                    width: 100%;
+                }
+                .webform-client-form #edit-submit {
+                    margin-left: 0 !important;
+                }
+                .search-form {
+                    margin-left: 0;
+                    margin-top: 20px;
+                    border: 1px solid #ccc;
+                    width: 100%;
+                }
+                .search-form .form-group {
+                    width: 93%;
+                    float: left;
+                    margin: 0;
+                }
+                .search-form .form-control {
+                    width: 100%;
+                    float: left;
+                    margin: 0;
+                }
+                #block-locale-language {
+                    margin: 0;
+                    width: 100%;
+                    text-align: center;
+                }
+                #block-locale-language .language-switcher-locale-url {
+                    margin-left: 0;
+                }
+                #block-locale-language .language-switcher-locale-url li {
+                    font-size: 15px;
+                    text-transform: uppercase;
+                }
+                .box_navi {
+                    display: none
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description span {
+                    width: 70%;
+                }
+                #block-locale-language .language-switcher-locale-url li {
+                    margin: 0 10px;
+                }
+                #block-views-actualites-block .views-row,
+                #block-views-actualites-videos-block .views-row {
+                    width: 100%;
+                    float: left;
+                    border: 1px solid #ccc;
+                    margin-right: 0;
+                    text-align: center;
+                    margin-bottom: 20px;
+                }
+                #block-views-actualites-videos-block {
+                    padding: 0;
+                }
+                #block-views-actualites-block .news-desc p,
+                #block-views-actualites-videos-block .news-desc p {
+                    text-align: justify;
+                    margin-bottom: 10px !important;
+                }
+                #block-views-agenda-block .views-row,
+                #block-views-regions-block .views-row {
+                    float: left;
+                    width: 100%;
+                }
+                .box_actu {
+                    margin-bottom: 10px;
+                }
+                #block-views-actualites-block .news-read-more a,
+                #block-views-actualites-block .news-video-read-more a,
+                #block-views-actualites-videos-block .news-read-more a,
+                #block-views-actualites-videos-block .news-video-read-more a {
+                    margin-top: 0;
+                }
+                #map {
+                    left: 0;
+                }
+                #block-views-agenda-block .block-title,
+                #block-views-regions-block .block-title {
+                    margin: 5px 0;
+                }
+                #block-boxes-contact-home p,
+                #block-boxes-contact-home a {
+                    width: 80%;
+                }
+                .box_wrapper {
+                    margin-bottom: 50px;
+                }
+                .box_tool .menu li {
+                    text-align: center;
+                    margin-bottom: 0;
+                    float: none !important;
+                    display: inline-block;
+                }
+                #block-views-rapports-block,
+                #block-boxes-contact-home {
+                    border: 1px solid #ccc;
+                }
+                .box_tool .menu li a {
+                    padding-top: 120px;
+                }
+                .box_tool .menu li a:hover {
+                    transform: none;
+                }
+                .box_header {
+                    background: none;
+                }
+                /*#block-views-agenda-block .views-row-1, #block-views-regions-block .views-row-1{
+		border-right: 1px solid #ccc;
+		border-bottom: 1px solid #ccc;
+	}
+
+	#block-views-agenda-block .views-row-2, #block-views-regions-block .views-row-2{
+		border-bottom: 1px solid #ccc;
+	}
+
+	#block-views-agenda-block .views-row-3, #block-views-regions-block .views-row-3{
+		border-right: 1px solid #ccc;
+	}*/
+                .box_footer {
+                    padding-bottom: 20px;
+                }
+                #block-menu-menu-footer .menu li {
+                    padding: 0 8px;
+                }
+                #block-menu-menu-footer .menu li a {
+                    text-decoration: none;
+                }
+                #block-menu-menu-footer .menu li ::after {
+                    content: " ";
+                    padding-left: 0;
+                    color: #c9c9c9;
+                }
+                #block-views-agenda-block .views-row,
+                #block-views-regions-block .views-row {
+                    min-height: 130px;
+                    background: none;
+                }
+                .search-form .btn {
+                    float: left;
+                    width: 15%;
+                }
+                #block-views-actualites-block .news-image img,
+                #block-views-actualites-videos-block .news-video-thumb img {
+                    display: inline-block;
+                    max-width: 100%;
+                    height: auto;
+                }
+                .dropdown-menu {
+                    position: relative;
+                    margin-left: 24px !important;
+                    background: none;
+                }
+                .dropdown-menu li {}
+                .dropdown-menu li a {
+                    padding: 8px 0 !important;
+                    text-transform: none !important;
+                    color: #fff !important;
+                    margin-left: 0 !important;
+                    width: 100% !important;
+                    display: block !important;
+                    background: none !important;
+                }
+                .ariane {
+                    margin-top: 5px;
+                    margin-bottom: 5px;
+                }
+                .search-form .btn {
+                    float: left;
+                    width: 7%;
+                }
+                .box_slider {
+                    width: 100%;
+                    overflow-x: hidden;
+                }
+                .fakeloader {
+                    background: #FFF !important;
+                }
+                #views_slideshow_controls_text_slideshow-block {
+                    left: 10px;
+                }
+                #block-views-actualites-block .news-desc,
+                #block-views-actualites-videos-block .news-desc {
+                    min-height: 0;
+                }
+                #block-simplenews-17 form {
+                    float: left;
+                    width: 81% !important;
+                }
+                #block-simplenews-17 p {
+                    display: none;
+                }
+                .page-mediatheque .views-slideshow-controls-text {
+                    margin-left: 0 !important;
+                }
+                .fakeloader {
+                    background: #FFF !important;
+                }
+                .page {
+                    float: left;
+                    overflow-x: hidden;
+                    width: 100%;
+                }
+                /* * ADI * */
+                .box_top_header,
+                .presidence,
+                .slideshow-desc h3,
+                .menu.axes {
+                    display: none;
+                }
+                .box_header {
+                    padding: 0;
+                }
+                .bos {
+                    width: 100% !important;
+                    float: left !important;
+                }
+                .box_header .logo.bos img {
+                    width: 35% !important;
+                    margin-top: 0;
+                    margin-left: 0;
+                    height: auto;
+                }
+                #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description span {
+                    margin-left: 20px !important;
+                }
+                #block-views-regions-block {
+                    width: auto;
+                }
+                .region-pse-carte .view-regions .view-header h3 {
+                    margin-left: 0;
+                }
+                #block-views-regions-block .block-title {
+                    margin-bottom: 6px;
+                    line-height: 20px;
+                }
+                #map {
+                    margin-top: -100px;
+                }
+                .region-pse-carte .view-regions .view-header h3 {
+                    margin-left: 0 !important;
+                    margin-top: 7px;
+                }
+                #block-menu-menu-pse-tools .menu li {
+                    background-size: 20% !important;
+                }
+                #block-menu-menu-footer .menu li {
+                    padding: 0 7px !important;
+                    font-size: 12px !important;
+                }
+                #block-boxes-contact-home p {
+                    margin-bottom: 18px;
+                }
+                .page-header h1 {
+                    display: block !important;
+                }
+                .ariane {
+                    display: none !important;
+                }
+                .jumbotron {
+                    padding: 16px !important;
+                }
+                .page-node-39 .field-name-body img {
+                    display: none;
+                }
+                .box_tool {
+                    visibility: visible !important;
+                }
+                #quicktabs-chiffres_cles .quicktabs-tabpage {
+                    text-align: justify;
+                }
+                .view-reformes .views-row,
+                .view-projets-phares .views-row {
+                    width: 93% !important;
+                }
+                .node ul,
+                .pane-content ul,
+                .node ul li,
+                .pane-content ul li,
+                .view-documents .views-row {
+                    width: 100% !important;
+                }
+                #block-menu-menu-pse-tools,
+                #block-views-agenda-block,
+                #block-views-rapports-block,
+                .box_footer {
+                    visibility: visible !important;
+                }
+                .page-approche-territoriale- .region-content h3,
+                .pane-content p {
+                    position: relative;
+                    z-index: 12;
+                }
+                .view-secteurs-strategiques- .views-row {
+                    width: 94% !important;
+                    min-height: auto !important;
+                }
+                .view-documents .views-row .document-desc {
+                    min-height: auto !important;
+                }
+                .view-documents .views-row {
+                    float: left !important;
+                }
+                .box_wrapper {
+                    float: left;
+                    width: 100%;
+                    overflow: hidden;
+                }
+            }
+            
+            @media (min-width: 768px) and (max-width: 992px) {}
+            
+            @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+                .search-form {
+                    margin-left: 0;
+                }
+                #block-boxes-contact-home p,
+                #block-boxes-contact-home a {
+                    width: 80%;
+                }
+                .node-projet {
+                    padding: 15px;
+                }
+                .page-header {
+                    margin-bottom: 0;
+                }
+                .webform-client-form #edit-submit {
+                    margin-left: 214px;
+                }
+                .box_slider {
+                    width: 100%;
+                    overflow-x: hidden;
+                }
+                #block-views-actualites-block {
+                    width: 69%;
+                    margin-left: -12px;
+                    float: left;
+                }
+                #block-simplenews-17 form {
+                    float: left;
+                    width: 64%;
+                }
+                #block-simplenews-17 {
+                    width: 58%;
+                }
+                .page-mediatheque .views-slideshow-controls-text {
+                    margin-left: 262px;
+                }
+                .region-navigation .menu li a {
+                    padding: 12px 50px 12px 10px !important;
+                }
+                .dropdown-menu {
+                    min-height: 59px;
+                }
+                .menu.axes {
+                    left: 314px !important;
+                }
+                .region-navigation .menu li .dropdown-menu li a {
+                    padding-right: 31px !important;
+                }
+                .view-secteurs-strategiques- .views-row {
+                    min-height: auto !important;
+                }
+                .view-documents .views-row .views-field-field-image-de-couverture img {
+                    width: 100%;
+                }
+                .view-documents .views-row .document-desc {
+                    min-height: auto;
+                }
+                .view-documents .views-row {
+                    margin-right: 25px;
+                }
+            }
+            
+            @media only screen and (min-width: 768px) and (max-width: 1024px) {}
+            
+            @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+            only screen and (min-device-pixel-ratio: 1.5) {}
+            
+            @media screen and (device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2) {}
+            
+            .slicknav_menu {
+                display: none;
+            }
+            
+            @media screen and (max-width: 992px) {
+                .js .region-navigation .menu {
+                    display: none;
+                }
+                .js .slicknav_menu {
+                    display: block;
+                }
+            }
+            /* HACKS POUR ECRAN IMAC */
+            
+            @media only screen and (min-width: 90.063em) {}
+            
+            #block-menu-menu-pse-tools .menu {
+                background: #F8F8F8;
+                box-shadow: 0 1px 7px #f0f0f0;
+            }
+            
+            .front #block-menu-menu-pse-tools .menu li {
+                padding: 28px 0 28px 90px;
+                text-transform: uppercase;
+                font-family: opensansbold;
+                border-bottom: 1px solid #ffda00;
+                text-align: left;
+                background: url(../images/document.svg) no-repeat 14px 15px;
+                background-size: 25%;
+            }
+            
+            #block-menu-menu-pse-tools .menu li:last-child {
+                border-bottom: none;
+            }
+            
+            #block-menu-menu-pse-tools .menu li a {
+                color: #343233;
+            }
+            
+            #block-menu-menu-pse-tools {
+                width: 91%;
+                padding: 0;
+                margin-bottom: 20px;
+            }
+            
+            #views_slideshow_controls_text_slideshow-block {
+                right: 44px;
+            }
+            
+            #block-views-agenda-block .views_slideshow_slide {
+                border: none;
+                width: 100% !important;
+                background: #FFF;
+            }
+            
+            #block-views-agenda-block .views-row {
+                background: #FFF;
+            }
+            
+            #block-views-agenda-block {
+                box-shadow: 0 1px 7px #f0f0f0;
+                border: 1px solid #eee;
+                width: 90%;
+            }
+            
+            #block-views-agenda-block .view-agenda {
+                position: relative;
+            }
+            
+            #block-views-agenda-block .block-title {
+                padding: 12px 0 8px 20px;
+            }
+            
+            #block-views-agenda-block .views-field-title {
+                text-align: left;
+            }
+            
+            #views_slideshow_controls_text_pause_agenda-block {
+                display: none;
+            }
+            
+            #block-views-agenda-block .date-agenda {
+                float: left;
+                background: #CD162D;
+                padding: 0 4px;
+                margin-right: 10px;
+            }
+            
+            #block-views-agenda-block .agenda-day,
+            #block-views-agenda-block .agenda-month,
+            #block-views-agenda-block .agenda-year
+            {
+                color: #FFF;
+            }
+            
+            #block-views-agenda-block .agenda-month,
+            #block-views-agenda-block .agenda-year
+            {
+                font-size: 1.2rem;
+            }
+            
+            #block-views-agenda-block .agenda-day {
+                margin-top: 8px;
+            }
+            
+            #block-views-agenda-block .views-slideshow-controls-bottom {
+                position: absolute;
+                width: auto;
+                height: auto;
+                bottom: 0;
+                right: 0;
+                z-index: 200;
+            }
+            
+            #views_slideshow_controls_text_previous_agenda-block a,
+            #views_slideshow_controls_text_next_agenda-block a {
+                width: 15px;
+                height: 16px;
+                text-indent: -9999px;
+                padding: 0;
+                float: left;
+                margin-left: 5px;
+                outline: none;
+            }
+            /*#views_slideshow_controls_text_previous_agenda-block a{background: url("../images/fleche_agenda.png") no-repeat left top;}
+
+#views_slideshow_controls_text_next_agenda-block a
+{
+	background: url("../images/fleche_agenda.png") no-repeat right top;margin-left: 0;
+}
+*/
+            
+            #block-views-rapports-block {
+                width: 90%;
+            }
+            
+            #block-menu-menu-footer,
+            #block-menu-menu-footer .menu {
+                width: 100%;
+                float: none;
+            }
+            
+            #block-views-agenda-block .views-row,
+            #block-views-regions-block .views-row {
+                min-height: 80px;
+            }
+            
+            .box_tool {
+                background: #F8F8F8;
+                min-height: 150px;
+            }
+            
+            #block-boxes-contact-home {
+                padding: 0;
+                border: none;
+                box-shadow: none;
+            }
+            
+            #block-boxes-contact-home p {
+                width: 100%;
+                margin-left: 0;
+            }
+            
+            #block-boxes-contact-home .block-title,
+            #block-multiblock-1 .block-title {
+                margin: 20px 0 14px 0;
+                display: block;
+                color: #343434;
+                text-align: left;
+                font-family: opensansbold;
+                text-transform: uppercase;
+                font-size: 1.7rem;
+            }
+            
+            #block-multiblock-1 .menu {}
+            
+            #block-multiblock-1 .menu li {
+                float: left;
+                margin-right: 10px;
+            }
+            
+            #block-multiblock-1 .menu li a {
+                padding: 0;
+                text-indent: -9999px;
+                width: 58px;
+                height: 61px;
+            }
+            
+            #block-multiblock-1 .menu li:first-child a {
+                background: url("../images/facebook_foot.png") no-repeat center center transparent;
+            }
+            
+            #block-multiblock-1 .menu li+li a {
+                background: url("../images/twitter_foot.png") no-repeat center center transparent;
+            }
+            /* #block-multiblock-1 .menu li:last-child a{background: url("../images/youtube_foot.png") no-repeat center center transparent;} */
+            
+            .box_navi .bande {
+                top: 46px;
+            }
+            
+            .logo {
+                position: relative;
+                z-index: 500;
+            }
+            
+            .box_tool #block-multiblock-1 {
+                background: #EAEAEA;
+                min-height: 150px;
+            }
+            
+            .box_footer {
+                min-height: 70px;
+            }
+            
+            #block-menu-menu-footer .menu {
+                margin-top: 24px;
+            }
+            
+            .region-navigation .menu .active-trail a,
+            .region-navigation .menu .active a {
+                border-right: 1px solid #298E51;
+                color: #ffda00;
+            }
+            
+            .front #block-menu-menu-pse-tools .menu li+li {
+                background: url(../images/mediatheque.svg) no-repeat 4px 10px;
+                background-size: 30%;
+            }
+            
+            .front #block-menu-menu-pse-tools .menu li+li+li {
+                background: url(../images/mediatheque.svg) no-repeat 14px 9px;
+                background-size: 25%
+            }
+            
+            .front #block-menu-menu-pse-tools .menu li:last-child {
+                background: url(../images/newsletter.svg) no-repeat 14px 15px;
+                background-size: 25%
+            }
+            
+            .not-front #block-menu-menu-pse-tools .menu li {
+                padding: 28px 0 28px 90px;
+                text-transform: uppercase;
+                font-family: opensansbold;
+                border-bottom: 1px solid #ffda00;
+                text-align: left;
+                background: url(../images/document.svg) no-repeat 16px 10px;
+                background-size: 12%;
+            }
+            
+            .not-front #block-menu-menu-pse-tools .menu li+li {
+                padding: 28px 0 28px 90px;
+                text-transform: uppercase;
+                font-family: opensansbold;
+                border-bottom: 1px solid #ffda00;
+                text-align: left;
+                background: url(../images/mediatheque.svg) no-repeat 8px 10px;
+                background-size: 14%;
+            }
+            
+            .not-front #block-menu-menu-pse-tools .menu li:last-child {
+                padding: 28px 0 28px 90px;
+                text-transform: uppercase;
+                font-family: opensansbold;
+                border-bottom: 1px solid #ffda00;
+                text-align: left;
+                background: url(../images/newsletter.svg) no-repeat 16px 10px;
+                background-size: 11%;
+            }
+            
+            .dropdown-menu {
+                min-width: 192% !important;
+            }
+            
+            #block-custom-search-blocks-1 {
+                float: right !important;
+            }
+            
+            .vex.vex-theme-default .vex-content {
+                width: 875px;
+                padding: 5px;
+            }
+            
+            .vex.vex-theme-default .vex-content img {
+                width: 100%;
+                height: auto;
+            }
+            
+            #map {
+                cursor: pointer !important;
+            }
+            
+            .node img,
+            .pane-content img {
+                height: auto !important;
+            }
+            
+            .card {
+                float: left;
+                width: 100%;
+                margin-bottom: 3px;
+                background: #f0f0f0;
+            }
+            
+            .card h3 {
+                background: #F1B222;
+                font-family: opensansbold;
+                font-size: 15px;
+                padding: 10px 12px;
+            }
+            
+            .card ul {
+                float: left;
+                width: 93%;
+                margin: 20px 14px 20px 30px;
+            }
+            
+            .card li {
+                line-height: 20px;
+                list-style: disc;
+                text-align: left;
+            }
+            
+            .page-node-208 .region-content h2 {
+                background: #18740f;
+                color: #FFF;
+                font-size: 16px;
+                padding: 14px 12px;
+                margin-top: 24px;
+            }
+            
+            .view-projets-phares h3 {
+                /*background: #F1B222;*/
+                color: #000;
+                font-size: 16px;
+                padding: 10px;
+                margin-top: 24px;
+                margin-bottom: 0px;
+                float: left;
+                width: 100%;
+                clear: both;
+                font-family: opensansbold;
+            }
+            
+            .pagination {
+                clear: both;
+                float: left;
+            }
+            
+            .field-name-body img {
+                display: block;
+                margin: 0 auto;
+            }
+            
+            #block-custom-search-blocks-1 {
+                width: 45% !important;
+                margin-left: 8px !important;
+                margin-top: 0 !important;
+            }
+            
+            #block-menu-menu-social {
+                float: left;
+                margin-left: 234px !important;
+            }
+            
+            .presidence {
+                float: left !important;
+                width: auto !important;
+            }
+            
+            .bos {
+                width: 187px;
+                float: left !important;
+            }
+            
+            .box_navi {
+                width: 51% !important;
+                margin-top: 42px !important;
+                top: 6px !important;
+                padding-right: 0;
+                float: right;
+                margin-right: 30px;
+            }
+            
+            .region-navigation .menu li:last-child a {
+                border-right: none;
+            }
+            
+            .logo img {
+                max-width: 100% !important;
+                width: 100% !important;
+            }
+            
+            .box_navi .bande {
+                top: 46px !important;
+                left: -800px !important;
+                width: 250% !important;
+                height: 59px !important;
+            }
+            
+            .field-name-field-regions .field-item {
+                margin-bottom: 4px;
+            }
+            
+            .region-pse-carte .view-regions {
+                display: block;
+                color: #000;
+                float: left;
+                width: 100%;
+                position: relative;
+                z-index: 1;
+                font-size: 1rem;
+            }
+            
+            .region-pse-carte .view-regions .view-header h3 {
+                font-size: 1.2rem;
+                margin-left: 33px;
+            }
+            
+            .region-pse-carte .view-regions .view-content {
+                display: none;
+            }
+            
+            .views-field-field-projet-ou-reforme-rattache a,
+            .views-field-field-realisation-rattachee a,
+            .field-name-field-projet-ou-reforme-rattache a,
+            .field-name-field-realisation-rattachee a {
+                margin-left: 4px;
+                font-family: 'opensansbold';
+            }
+            
+            .views-field-field-projet-ou-reforme-rattache a:hover,
+            .views-field-field-realisation-rattachee a:hover,
+            .field-name-field-projet-ou-reforme-rattache a:hover,
+            .field-name-field-realisation-rattachee a:hover {
+                color: #232323;
+            }
+            
+            .views-field-field-projet-ou-reforme-rattache,
+            .views-field-field-realisation-rattachee,
+            .field-name-field-projet-ou-reforme-rattache,
+            .field-name-field-realisation-rattachee {
+                width: 100%;
+                display: inline-block;
+            }
+            
+            .pane-node-field-slides-realisation {
+                width: 100%;
+                clear: both;
+                float: left;
+                display: block;
+                height: 300px;
+                overflow: hidden;
+            }
+            
+            .field-slideshow {
+                max-width: 100%;
+                position: static !important;
+                float: left;
+                clear: both;
+                display: block;
+            }
+            
+            #colorbox h3 {
+                float: left;
+                width: 100%;
+                font-size: 1.6rem;
+                font-family: opensansbold;
+                margin-bottom: 4px;
+            }
+            
+            .logo.bos img {
+                width: 70% !important;
+                margin-top: 10px;
+                margin-left: -12px;
+            }
+            
+            .page-header h1 {
+                display: none;
+            }
+            
+            #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description span {
+                margin-left: 60px;
+                float: left;
+                width: 74%;
+                margin-top: 150px;
+            }
+            
+            #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description .slideshow-title,
+            #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description .slideshow-desc {
+                width: 100%;
+            }
+            
+            #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description {
+                width: 450px;
+            }
+            
+            #views_slideshow_cycle_teaser_section_slideshow-block .slideshow-description {
+                position: absolute;
+                top: -100px;
+                background: rgba(255, 255, 255, 0.7) !important;
+                width: 430px;
+                height: 470px;
+                z-index: 0;
+            }
+            
+            .region-sidebar-second {
+                margin-top: 0;
+            }
+            
+            #block-views-regions-block .block-title,
+            .region-pse-carte .view-regions .view-header h3 {
+                position: relative;
+                z-index: 9;
+            }
+            
+            .front .box_actu {
+                margin-bottom: 10px !important;
+            }
+            
+            #map {
+                top: 44px;
+            }
+            
+            #colorbox h2 a {
+                font-family: opensansbold;
+                font-size: 1.8rem;
+                margin-bottom: 8px;
+                float: left;
+                margin-top: 14px;
+                display: block;
+                width: 100%;
+            }
+            
+            .menu.axes {
+                position: absolute;
+                left: 358px;
+                top: 92px;
+                display: none;
+            }
+            
+            .menu.axes li a .jaune {
+                color: #ffda00;
+                text-transform: uppercase;
+                font-size: 2.5rem;
+                display: block;
+                width: 100%;
+                text-align: center;
+            }
+            
+            .menu.axes li a .blanc {
+                color: #FFF;
+                display: block;
+                width: 100%;
+                text-align: center;
+                font-size: 1.4rem;
+            }
+            
+            #axe-3 {
+                position: relative;
+                left: 200px;
+                top: 258px;
+            }
+            
+            #axe-1 {
+                left: 108px;
+                top: 180px;
+                position: relative;
+            }
+            
+            #axe-2 {
+                position: relative;
+                left: 9px;
+                top: 312px;
+            }
+            
+            #node-39 p {
+                /*margin-bottom: -20px;*/
+            }
+            
+            #node-39 .field-item {}
+            
+            #node-40 ul li p {
+                margin-bottom: 5px;
+            }
+            
+            #quicktabs-chiffres_cles .quicktabs-tabs li {
+                float: left;
+                margin-bottom: 10px;
+            }
+            
+            #quicktabs-chiffres_cles .quicktabs-tabpage li {
+                float: left;
+                margin-bottom: 16px;
+                text-align: justify;
+                background: url("../images/pastille.png") left 1px no-repeat;
+                padding-left: 20px;
+            }
+            
+            #quicktabs-chiffres_cles .quicktabs-tabpage {
+                float: left;
+                width: 100%;
+            }
+            
+            #quicktabs-chiffres_cles .quicktabs-tabs li a {
+                color: #FFF;
+                background: #18740f;
+                padding: 10px 24px;
+                float: left;
+            }
+            
+            #quicktabs-chiffres_cles .quicktabs-tabs .active a {
+                background: #ffda00;
+                color: #000;
+                font-family: 'opensansbold';
+            }
+            
+            #quicktabs-chiffres_cles .quicktabs-tabpage img {
+                /*width: 80% !important;*/
+                max-width: 100% !important;
+                height: auto !important;
+            }
+            
+            .not-front #block-menu-menu-pse-tools {
+                padding: 0 15px;
+            }
+            
+            .not-front #block-views-agenda-block,
+            .not-front #block-menu-menu-pse-tools {
+                margin-top: 40px;
+            }
+            
+            #quickset-dispositif .ui-accordion-content p {
+                text-align: justify;
+                font-size: 15px;
+                text-transform: none;
+                font-family: opensanslight;
+                margin-bottom: 16px;
+                line-height: 2rem;
+            }
+            
+            #quickset-dispositif .ui-accordion-content {
+                padding: 26px 20px;
+            }
+            
+            #quickset-dispositif .ui-accordion-header-icon {
+                display: none;
+            }
+            
+            #quickset-dispositif .ui-accordion-header {
+                font-family: opensansbold;
+                font-size: 1.5rem;
+                padding-left: 20px;
+                padding-top: 15px;
+                padding-bottom: 8px;
+                border-radius: 0;
+                border: none;
+            }
+            
+            #quickset-dispositif .ui-state-default a {
+                color: #000;
+            }
+            
+            .pane-content ul li {
+                font-size: 15px;
+                padding-right: 20px;
+            }
+            
+            .pane-content p strong {
+                font-size: 1.6rem;
+                font-family: opensansbold;
+                margin-bottom: 4px;
+                color: #000 !important;
+            }
+            
+            .page-approche-territoriale- #map {
+                top: 22px;
+            }
+            
+            .page-approche-territoriale- .region-content h3 {
+                text-align: left;
+                font-family: opensansbold;
+                text-transform: uppercase;
+                font-size: 1.7rem;
+                margin-bottom: 7px;
+                margin-top: 20px;
+            }
+            
+            .page-approche-territoriale- .region-content .field-name-body {
+                margin-top: 22px;
+            }
+            
+            .ariane {
+                visibility: hidden;
+            }
+            
+            .page-approche-territoriale- .box_navi .bande {}
+            
+            .ui-accordion .ui-accordion-header .ui-accordion-header-icon {
+                display: none;
+            }
+            
+            .ui-accordion h3.ui-accordion-header {
+                border-radius: 0 !important;
+                padding-left: 12px;
+                padding-top: 15px;
+                padding-bottom: 8px;
+            }
+            
+            .view-secteurs-strategiques- .views-row {
+                border: 1px solid #eee;
+                -webkit-box-shadow: 0 1px 7px #f0f0f0;
+                -moz-box-shadow: 0 1px 7px #f0f0f0;
+                box-shadow: 0 1px 7px #f0f0f0;
+                padding: 0;
+                width: calc((100% / 3) - 20px);
+                width: 31.33%;
+                vertical-align: top;
+                float: left;
+                margin-right: 8px;
+                margin-left: 8px;
+                margin-bottom: 30px;
+                min-height: 320px;
+            }
+            
+            .view-secteurs-strategiques- .views-row img {
+                display: inline-block;
+                max-width: 100%;
+                height: auto;
+                width: 100%;
+                max-height: 102px;
+            }
+            
+            .view-secteurs-strategiques- .views-row .views-field-title {
+                padding: 0 15px;
+                margin: 20px 0;
+                font-family: opensansregular;
+                font-size: 1.6rem;
+                min-height: 40px;
+                text-align: left;
+            }
+            
+            .view-secteurs-strategiques- .views-row .views-field-view-node span.field-content a {
+                font-family: opensansbold;
+                font-size: 1.2rem;
+                text-transform: uppercase;
+                color: #161301;
+                background-color: #ffda00;
+                padding: 4px 6px;
+                margin: 0 0 15px 15px;
+                float: left;
+                -moz-transition: all 0.3s ease-out;
+                -webkit-transition: all 0.3s ease-out;
+                transition: all 0.3s ease-out;
+            }
+            
+            .view-secteurs-strategiques->.view-content>div {
+                float: left;
+                width: 100%;
+            }
+            
+            .jumbotron {
+                background: #FFF;
+                border: 1px solid #ccc;
+                padding: 30px !important;
+            }
+            
+            #colorbox table {
+                width: 100% !important;
+                margin-bottom: 20px;
+            }
+            
+            #colorbox table tr td p,
+            #colorbox table tr th p {
+                margin-bottom: 0;
+                text-align: left;
+            }
+            
+            #colorbox table thead tr th {
+                background: #118600;
+            }
+            
+            #colorbox table thead tr th p {
+                margin: 5px 0;
+                text-align: center;
+                color: #fff;
+            }
+            
+            #colorbox table thead tr th p strong {
+                color: #fff !important;
+            }
+            
+            #colorbox table tr:nth-child(odd) {
+                background: #F0F0F0;
+            }
+            
+            #colorbox table tr td p strong,
+            #colorbox table tr td p {
+                font-size: 1.4rem;
+                line-height: 1.8rem;
+            }
+            
+            #colorbox table tr td {
+                padding: 6px;
+                vertical-align: middle;
+                /* min-width: 156px; */
+            }
+            
+            #colorbox table tr td ul li {
+                padding-right: 12px;
+            }
+            
+            .view-secteurs-strategiques- .view-grouping-header {
+                margin-top: 40px !important;
+                margin-bottom: 9px !important;
+            }
+            
+            .view-projets-phares .view-grouping-header,
+            .view-reformes .view-grouping-header {
+                margin-bottom: -12px !important;
+            }
+            
+            .page-node-221 .view-secteurs-strategiques- .views-row .views-field-view-node span.field-content a:first-child {
+                display: none;
+            }
+            
+            #colorbox .pane-content .field-type-image,
+            #colorbox .pane-content .field-type-image .field-item,
+            .page-node-52 .field-type-image .field-item,
+            .page-node-52 .field-type-image {
+                text-align: center;
+                width: 100%;
+            }
+            
+            .not-front #block-views-agenda-block .block-title {
+                padding: 12px 0 8px 0px;
+            }
+            
+            .node-type-rapport .page-header h1,
+            .page-node-251 .page-header h1,
+            .page-mediatheque .page-header h1,
+            .page-documentation .page-header h1,
+            .node-type-projet .page-header h1,
+            .node-type-reforme .page-header h1,
+            .page-sitemap .page-header h1,
+            .page-node-99 .page-header h1,
+            .page-node-193 .page-header h1 {
+                display: block;
+            }
+            
+            .page-mediatheque .views-slideshow-controls-text {
+                margin-bottom: 0;
+                margin-left: 0;
+            }
+            
+            .page-mediatheque .region-content .pane-title {
+                display: none;
+            }
+            
+            .not-front #block-views-agenda-block .views-slideshow-controls-text .views-slideshow-controls-text-previous,
+            .not-front #block-views-agenda-block .views-slideshow-controls-text .views-slideshow-controls-text-next {
+                width: 25px;
+                height: 25px;
+                text-indent: -9999px;
+                padding: 0;
+                float: left;
+                outline: none;
+            }
+            
+            .not-front #block-views-agenda-block .views-slideshow-controls-text .views-slideshow-controls-text-previous {
+                margin-left: 16px;
+                background: url("../images/prev.png") no-repeat center center #18740f;
+            }
+            
+            .not-front #block-views-agenda-block .views-slideshow-controls-text .views-slideshow-controls-text-next {
+                margin-left: 5px;
+                background: url("../images/next.png") no-repeat center center #18740f;
+            }
+            
+            .node-type-projet .region-content h3 {
+                float: left;
+                width: 100%;
+                font-family: opensansbold;
+                font-size: 1.8rem;
+                margin-bottom: 4px;
+            }
+            
+            .webform-client-form .form-item label {
+                width: 23%;
+            }
+            
+            .view-reformes .views-row .views-field-title,
+            .view-projets-phares .views-row .views-field-title {
+                min-height: 80px;
+                margin: 20px 0 10px 0;
+            }
+            
+            .view-secteurs-strategiques- .views-row,
+            .view-reformes .views-row,
+            .view-projets-phares .views-row {
+                min-height: auto;
+            }
+            
+            .pane-content .view-secteurs-strategiques- .views-row,
+            .pane-content .view-reformes .views-row,
+            .pane-content .view-projets-phares .views-row {
+                box-shadow: none !important;
+                border: none !important;
+                margin: 0 !important;
+            }
+            
+            #quickset-dispositif .ui-accordion-header {
+                clear: both;
+                margin-bottom: 0px;
+                color: #000;
+                font-size: 16px;
+                padding: 10px;
+                margin-top: 24px !important;
+                float: left;
+                width: 100%;
+                clear: both;
+                font-family: opensansbold;
+                border: 1px solid #18740f;
+                background: transparent;
+            }
+            
+            #quickset-dispositif .ui-accordion-header a {
+                color: #18740f;
+            }
+            
+            .page-projets-phares .panels-flexible-region-inside,
+            .page-projets-phares .node-reforme,
+            .page-reformes-phares .panels-flexible-region-inside,
+            .page-reformes-phares .node-reforme {
+                padding: 0 !important;
+            }
+            
+            #views_slideshow_cycle_main_photos-block_1 .views-slideshow-cycle-main-frame-row-item .views-field-title,
+            #views_slideshow_cycle_main_photos-block_1 .views-slideshow-cycle-main-frame-row-item .views-field-colorbox {
+                display: block;
+                color: #fff;
+                font-family: opensanslight;
+                background-color: #FFF;
+                float: left;
+                width: 100%;
+                font-size: 15px;
+                text-align: left;
+                padding: 0;
+                color: #18740f;
+                margin: 7px 0 0 2px;
+            }
+            
+            .view-grouping-header {
+                margin-top: 30px !important;
+                margin-bottom: 9px !important;
+                float: left;
+                width: 100%;
+                font-family: opensansbold;
+            }
+            
+            #cboxOverlay {
+                background: rgba(0, 0, 0, 0.7) !important;
+            }
+            
+            .not-front #block-views-rapports-block {
+                margin-top: 40px;
+            }
+            
+            .not-front #block-views-agenda-block {
+                margin-top: 0;
+            }
+            
+            #block-simplenews-17 .form-control {
+                height: 44px;
+                color: #FFF;
+                background-color: #3c3939;
+            }
+            
+            #block-simplenews-17 .form-submit {
+                height: 44px;
+                background: #ffda00;
+                color: #18740f;
+            }
+            
+            #quicktabs-chiffres_cles .quicktabs-tabs li {
+                display: none;
+            }
+            /*.page-node-52 #block-quicktabs-dispositif*/
+            
+            .page-approche-territoriale- .page-approche-territoriale #map ul li {
+                background: none !important;
+                padding-left: 0 !important;
+                font-size: 13px !important;
+                line-height: 22px !important;
+                margin-bottom: 0 !important;
+            }
+            
+            .page-approche-territoriale- .region-content .field-name-body {
+                margin-top: 60px;
+            }
+            
+            .page-node-52 .field-type-image {
+                border: 1px solid #0C640E;
+                padding: 10px;
+            }
+            
+            .view-secteurs-strategiques- .views-row {
+                min-height: 238px;
+            }
+            
+            .page-autres-programmes .view-secteurs-strategiques- .ui-accordion-content {
+                display: block !important;
+            }
+            
+            .page-autres-programmes .view-secteurs-strategiques- h3.ui-accordion-header {
+                background: #18740f !important;
+            }
+            
+            .page-autres-programmes .view-secteurs-strategiques- h3.ui-accordion-header a {
+                color: #FFF !important;
+            }
+            
+            .node ul,
+            .pane-content ul {
+                margin-left: 30px;
+                margin-bottom: 20px;
+                width: 95%;
+            }
+            
+            .page-batailles-cles-sectorielles .page-header h1,
+            .page-catalyseurs .page-header h1 {
+                display: block;
+                font-family: opensansbold !important;
+                color: #000;
+                font-size: 2rem;
+                width: 100%;
+                margin-top: 18px;
+                float: left;
+                margin-bottom: 4px;
+            }
+            
+            .slideshow-description h3,
+            .slideshow-desc h3 {
+                font-size: 1.1rem;
+            }
+            
+            #node-375 .field-type-file a,
+            #node-375 .field-type-file a:hover {
+                background: #ffda00;
+                color: #18740f;
+            }
+            
+            #axes {
+                position: relative;
+                float: left;
+                width: 100%;
+            }
+            
+            #axes .axe1,
+            #axes .axe2,
+            #axes .axe3 {
+                position: absolute;
+                font-size: 3rem;
+                color: #ffda00;
+            }
+            
+            #axes .axe1 a,
+            #axes .axe2 a,
+            #axes .axe3 a {
+                color: #ffda00;
+            }
+            
+            #axes .axe1 em,
+            #axes .axe2 em,
+            #axes .axe3 em {
+                color: #FFF;
+                font-size: 14px;
+                clear: both;
+                display: block;
+                font-style: normal;
+                width: 300px;
+                position: absolute;
+                top: 42px;
+                left: -30px;
+            }
+            
+            #axes .axe1 {
+                left: 479px;
+                top: 130px;
+            }
+            
+            #axes .axe2 {
+                left: 366px;
+                top: 314px;
+            }
+            
+            #axes .axe3 {
+                left: 578px;
+                top: 314px;
+            }
+            
+            #colorbox .node ul,
+            #colorbox .pane-content ul,
+            #colorbox .node ol,
+            #colorbox .pane-content ol {
+                margin-top: 10px;
+            }
+            
+            #colorbox .node ul li,
+            #colorbox .pane-content ul li,
+            #colorbox .node ol li,
+            #colorbox .pane-content ol li {
+                list-style: none;
+                padding-left: 22px;
+                margin-left: 10px;
+                background: url("../images/pastille.png") left 1px no-repeat !important;
+            }
+            
+            #colorbox .node ul li ul li,
+            #colorbox .pane-content ul li ul li,
+            .node ul li ul li,
+            .pane-content ul li ul li {
+                background: url("../images/pastille.png") left 1px no-repeat !important;
+                padding-left: 22px;
+                list-style: none;
+                margin-left: 10px;
+            }
+            
+            #colorbox .node ul li ul li ul li,
+            #colorbox .pane-content ul li ul li ul li,
+            .node ul li ul li ul li,
+            .pane-content ul li ul li ul li {
+                list-style: none;
+                background: url("../images/pastille.png") left 1px no-repeat !important;
+                padding-left: 22px;
+                margin-left: 10px;
+            }
+            
+            #colorbox .node ol li ol li,
+            #colorbox .pane-content ol li ol li,
+            .node ol li ol li,
+            .pane-content ol li ol li {
+                background: url("../images/pastille.png") left 1px no-repeat !important;
+                list-style: none;
+                padding-left: 22px;
+                margin-left: 10px;
+            }
+
+@media screen and (min-width: 325px) and (max-width: 992px) {
+     #axes {
+         position: initial;
+         float: left;
+         width: 100%;
+         text-align: center;
+     }
+
+     #axes .axe1,
+     #axes .axe2,
+     #axes .axe3 {
+         position: initial;
+         font-size: 3rem;
+         color: #ffda00;
+     }
+
+     #axes .axe1 a,
+     #axes .axe2 a,
+     #axes .axe3 a {
+         color: #ffda00;
+         background-color: #18740f;
+         padding: 5px 15px;
+         border-radius: 50px;
+         box-shadow: 0 3px 15px rgba(0, 0, 0, 0.11) !important;
+     }
+
+     #axes .axe1 em,
+     #axes .axe2 em,
+     #axes .axe3 em {
+         color: #FFF;
+         font-size: 14px;
+         clear: both;
+         display: block;
+         font-style: normal;
+         width: 300px;
+         position: initial;
+         top: 42px;
+         left: -30px;
+     }
+
+     #axes .axe1 {
+         left: 0;
+         top: 0;
+     }
+
+     #axes .axe2 {
+         left: 0;
+         top: 0;
+     }
+
+     #axes .axe3 {
+         left: 0;
+         top: 0;
+     }
+}
+
+/* boutton voir plus rapprts bloc  */
+
+.voir-plus {
+    float: right;
+    color: #FFF;
+    background-color: #18740f;
+    padding: 6px 10px;
+    margin-right: 15px;
+    border-radius: 50px;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.11) !important;
+}
+.voir-plus:hover {
+    background-color: #ffda00 !important;
+}
+
+/* Page rapports */
+.view-display-id-page_1 .views-row {
+    border: 1px solid #eee;
+    -webkit-box-shadow: 0 1px 7px #f0f0f0;
+    -moz-box-shadow: 0 1px 7px #f0f0f0;
+    box-shadow: 0 1px 7px #f0f0f0;
+    line-height: 20px;
+    min-height: 158px;
+    font-size: 14px;
+    text-align: justify;
+    margin-bottom: 20px;
+    margin-right: 33px;
+    width: 30%;
+}
+
+.view-display-id-page_1 .views-row .document-title {
+    text-align: left;
+    font-family: opensansbold;
+    text-transform: none;
+    font-size: 1.5rem;
+    margin-top: 12px;
+    width: 100%;
+    margin-bottom: 6px;
+}
+
+.view-display-id-page_1 .views-row .document-title a {
+    color: #232323;
+}
+
+.view-display-id-page_1 .views-row .document-desc {
+    min-height: 60px;
+    margin-top: 20px;
+}
+
+.view-display-id-page_1 .views-row .document-title {
+    min-height: 40px;
+}
+
+.view-display-id-page_1 .views-row .document-file a {
+    font-family: opensansbold;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #ffda00;
+    padding: 4px 6px;
+    margin: 12px 0 16px;
+    float: left;
+    -moz-transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+
+.view-display-id-page_1 .views-row .document-file a:hover {
+    background: #18740f;
+}
+
+.view-display-id-page_1 .views-row:nth-child(3n) {
+    margin-right: 0;
+}
