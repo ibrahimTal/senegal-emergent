@@ -446,7 +446,7 @@
 						</div>
 						<br><br>
 						<!-- Login Form -->
-						<form method="post" action="./login.php">
+						<form method="post" action="./fr.php">
 							<div>Login</div>
 							<input type="text" id="login" class="fadeIn second" name="login" placeholder="login">
 							<div>Password</div>
