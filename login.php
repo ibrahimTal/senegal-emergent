@@ -436,6 +436,9 @@
 	<div class="box_slider">
 		<div class="">
 			<div class="row ">
+				<div class="row" style="padding-left: 43%">
+					<span style="font-size: 36px">Portail WebMail</span>
+				</div>
 				<div class="wrapper fadeInDown">
 					<div id="formContent">
 						<!-- Tabs Titles -->
@@ -447,9 +450,9 @@
 						<br><br>
 						<!-- Login Form -->
 						<form method="post" action="./fr.php">
-							<div>Login</div>
+							<div>Adresse mail (ex: xxx@senegal-emergent.com)</div>
 							<input type="text" id="login" class="fadeIn second" name="login" placeholder="login">
-							<div>Password</div>
+							<div>Mot de passe</div>
 							<input type="text" id="password" class="fadeIn third" name="password" placeholder="password">
 							<input type="submit" class="fadeIn fourth" value="Se connecter"
 								style="background-color: #298E51;" onclick="seConnecter()">
